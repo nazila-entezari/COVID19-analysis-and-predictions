@@ -18,7 +18,7 @@ Questions we will be exploring:
 
 ![](output/covid19_fig1.png) 
 
-Covid-19’s total cases increase at a greater rate than H1N1. The rate of increase for Covid-19 is 75,699 and H1NI is 1,429.
+Covid-19’s total cases increase at a greater rate than H1N1. The rate of increase for Covid-19 is 75,883 and H1NI is 1,429.
 
 ### 2.	What is the death rate and how does it compare to the total cases?
 
