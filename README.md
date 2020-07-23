@@ -59,6 +59,7 @@ Covid19:
 ![](output/covid19_fig7.png) 
 
 - The correlation coefficient for H1N1 of total cases vs. total deaths is 0.893 and for covid-19 it is 0.93.
+- Most of the countries show up in both total cases and total death charts.
 - For both pandemics, the total deaths is positively and significantly correlated to the total cases. USA is the top country for both pandemics in total cases and total deaths. 
 
 ### 5.	What are some further impacts of Covid-19? 
@@ -78,7 +79,7 @@ looking into the top10 most affected countries for the same, we found that altho
 
 ![](output/covid19_fig1.png) 
 
-- Regression value = 75699.2x - 2945848.06
+- Regression value = 77883.91x - 3079120.17
 - The predicted number of deaths globally by the end of year 2020 based on our 2nd degree nonlinear regression will be 24,684,370
 
 ![](output/covid19_fig3.png) 
@@ -94,7 +95,7 @@ As we can see on the first graph the linear regression is not the best fit to ou
 
 ![](output/covid19_fig4.png) 
 
-- Regression Value = 3899.27x-133643.12
+- Regression Value = 3920.77x-134954.79
 - The predicted number of deaths globally by the end of year 2020 based on our linear regression will be 1,289,590
 
 ![](output/covid19_fig5.png) 
