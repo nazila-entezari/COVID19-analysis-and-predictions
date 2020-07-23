@@ -15,7 +15,9 @@ Questions we will be exploring:
 ### 1.	What is the rate of increase in total cases for the pandemics? 
 
 ![](output/h1n1_fig5.png) 
+
 ![](output/covid19_fig1.png) 
+
 Covid-19’s total cases increase at a greater rate than H1N1. The rate of increase for Covid-19 is 75,699 and H1NI is 1,429.
 
 ### 2.	What is the death rate and how does it compare to the total cases?
