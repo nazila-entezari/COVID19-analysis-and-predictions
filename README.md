@@ -45,6 +45,7 @@ Covid-19:
 ### 4.	Are there any geographical similarities between the two pandemics?
 
 H1N1:
+
 ![](output/h1n1_fig3.png) 
 ![](output/h1n1_fig4.png) 
 
