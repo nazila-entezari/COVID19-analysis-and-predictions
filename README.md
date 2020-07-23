@@ -1,9 +1,9 @@
 # Project title: Closer look at the pandemics
 
 Team members:
-Fariha Sidiqqui
-Nazila Entezari
-Ying Feng
+- Fariha Siddiqui
+- Nazila Entezari
+- Ying Feng
 
 Questions we will be exploring:
  - What is the rate of increase in total cases for the pandemics? 
@@ -46,7 +46,9 @@ H1N1:
 ![](output/h1n1_fig3.png) 
 ![](output/h1n1_fig4.png) 
 
+
 Covid19:
+
 ![](output/covid19_fig9.png) 
 ![](output/covid19_fig10.png) 
 
