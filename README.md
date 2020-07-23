@@ -14,4 +14,5 @@ Questions we will be exploring:
 
 ### 1.	What is the rate of increase in total cases for the pandemics? 
 
-![](output/h1n1_fig1.png) 
+![](output/h1n1_fig5.png) 
+![](output/covid19_fig1.png) 
